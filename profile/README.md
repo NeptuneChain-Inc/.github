@@ -15,7 +15,7 @@ NeptuneChain-Inc is dedicated to leveraging technology for environmental sustain
 - **Support**: For direct assistance, contact our support team at [Support Email](mailto:support@neptunechain-inc.com).
 
 ## 🍿 Fun Facts
-- 
+- NeptuneChain was originally designed to be an accelerator for desalination in the US but ultimately pivoted away from water quantity and towards water quality.
 
 ## 🧙 Markdown Magic
 We embrace the clarity and structure that Markdown provides in our documentation and communication. Check out our [Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to contribute effectively.
